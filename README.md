@@ -1,4 +1,4 @@
- [![MasterHead](https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFja2VuZHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80)
+ [![MasterHead](https://cdn.wallpapersafari.com/24/18/IwWDmi.jpg)
 <h1 align="center">Hi 👋, I'm Osman Akbaş</h1>
 <h3 align="center">Software Developer from Turkey</h3>
 
